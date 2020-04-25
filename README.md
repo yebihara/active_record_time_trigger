@@ -58,13 +58,12 @@ Options as follows are supported.
 Clone this repository and add this line to your application's Gemfile:
 
 ```ruby
-gem 'active_record_time_trigger'
 gem 'active_record_time_trigger', path: 'path_to_/active_record_time_trigger'
 ```
 
 And then execute:
 ```bash
-$ bundle
+$ bundle install
 ```
 
 ## Contributing
